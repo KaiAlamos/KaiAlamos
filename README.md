@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm KaiAlamos 👋
 
-<!--
-**KaiAlamos/KaiAlamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+喜欢 Minecraft、自动化，以及让 Agent 真正能干活的工具。
 
-Here are some ideas to get you started:
+## 在折腾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Kash** — bash 的交互层。bash 仍是执行引擎，Kash 只接管键盘、补全与渲染
+- **DSH 插件** — 给 DeepSeek Harness 的 Web 界面做增强（surface-ui 等）
+
+## 技术栈
+
+Go · JavaScript / TypeScript · Python · Linux
+
+## 找到我
+
+- 🌐 主页：https://kaialamos.github.io/KaiAlamos/
+- 📦 仓库：https://github.com/KaiAlamos?tab=repositories
+
+---
+
+<sub>这个 README 会显示在 GitHub 个人主页上。</sub>
